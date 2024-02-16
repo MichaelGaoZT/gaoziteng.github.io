@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Gao Ziteng, Michael
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ziteng
+last_name: Gao
 
 # Status emoji
 status:
@@ -17,34 +17,33 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Algorithm Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: XPENG Motors
+    url: https://www.xpeng.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include reinforcement learning, autonomous vehicles, robotics.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reinforcement Learning
+  - Autonomous Vehicle
+  - Robotics
+  - Decision/Behavior/Motion-Plannning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Artificial Intelligence
+      institution: National University of Singapore
+      year: 2023
+    - course: B.Eng. in Mechatronic Engineering
+      institution: Harbin Institute of Technology
+      year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,21 +69,12 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Badminton
         description: ''
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -120,5 +110,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gao Ziteng, Michael joined the XPENG Motors as an algorithm engineer in 2023. He recieved his MSc degree in Mechanical Engineering from National University of Singapore (NUS) in 2023, supervised by Prof. Chen Chaoyu. Before that, he received his B.Eng. degree in Mechatronic Engineering from Harbin Institute of Technology (HIT) in 2022.
+
+Ziteng is interested in applying AI methods to real-world problems, especially using reinforcement learning methods to realize decision-making and motion-planning problems in autonomous vehicle and robotics domain. 
 {style="text-align: justify;"}
