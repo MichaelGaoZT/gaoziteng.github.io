@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gao Ziteng, Michael
+title: Gao Ziteng
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -38,7 +38,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Artificial Intelligence
+    - course: MSc in Mechanical Engineering
       institution: National University of Singapore
       year: 2023
     - course: B.Eng. in Mechatronic Engineering
@@ -55,12 +55,12 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Reinforcement Learning
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Autonomous Vehicle
         description: ''
         percent: 40
         icon: database
@@ -71,7 +71,7 @@ skills:
     items:
       - name: Badminton
         description: ''
-        percent: 60
+        percent: 85
         icon: person-hiking
         icon_pack: fas
 
