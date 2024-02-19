@@ -112,7 +112,7 @@ social:
 highlight_name: true
 ---
 
-Gao Ziteng, Michael joined the XPENG Motors as an algorithm engineer in 2023. He recieved his MSc degree in Mechanical Engineering from National University of Singapore (NUS) in 2023, supervised by Prof. Chen Chaoyu. Before that, he received his B.Eng. degree in Mechatronic Engineering from Harbin Institute of Technology (HIT) in 2022.
+Gao Ziteng joined the XPENG Motors as an algorithm engineer in 2023. He recieved his MSc degree in Mechanical Engineering from National University of Singapore (NUS) in 2023, supervised by Prof. Chen Chaoyu. Before that, he received his B.Eng. degree in Mechatronic Engineering from Harbin Institute of Technology (HIT) in 2022.
 
 Ziteng is interested in applying AI methods to real-world problems, especially using reinforcement learning methods to realize decision-making and motion-planning problems in autonomous vehicle and robotics domain. 
 {style="text-align: justify;"}
