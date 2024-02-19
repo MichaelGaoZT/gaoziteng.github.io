@@ -60,7 +60,7 @@ skills:
         icon_pack: fas
       - name: Autonomous Vehicle
         description: ''
-        percent: 40
+        percent: 85
         icon: car
         icon_pack: fas
   - name: Hobbies
@@ -70,9 +70,13 @@ skills:
       - name: Badminton
         description: ''
         percent: 85
-        icon: person-hiking
+        icon: badminton
         icon_pack: fas
-
+      - name: Gym
+        description: ''
+        percent: 40
+        icon: weightlifting
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
