@@ -29,9 +29,9 @@ bio: My research interests include reinforcement learning, autonomous vehicles, 
 
 # Interests to show in About widget
 interests:
-  - Reinforcement Learning and Deep Learning
-  - Autonomous Vehicle / Robotics
-  - Decision / Behavior / Motion-Plannning
+  - Reinforcement Learning; Deep Learning
+  - Autonomous Vehicle; Robotics
+  - Decision; Behavior; Motion-Plannning
 
 # Education to show in About widget
 education:
