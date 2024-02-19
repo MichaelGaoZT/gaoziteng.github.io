@@ -29,11 +29,9 @@ bio: My research interests include reinforcement learning, autonomous vehicles, 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Reinforcement Learning
-  - Autonomous Vehicle
-  - Robotics
-  - Decision/Behavior/Motion-Plannning
+  - Reinforcement Learning and Deep Learning
+  - Autonomous Vehicle / Robotics
+  - Decision / Behavior / Motion-Plannning
 
 # Education to show in About widget
 education:
@@ -63,7 +61,7 @@ skills:
       - name: Autonomous Vehicle
         description: ''
         percent: 40
-        icon: database
+        icon: car
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
