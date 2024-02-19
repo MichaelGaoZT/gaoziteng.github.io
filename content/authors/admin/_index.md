@@ -56,7 +56,7 @@ skills:
       - name: Reinforcement Learning
         description: ''
         percent: 80
-        icon: chart-line
+        icon: ai
         icon_pack: fas
       - name: Autonomous Vehicle
         description: ''
